@@ -1,5 +1,7 @@
 # perth waszp games (worlds 2019)
-[entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319/)
+[entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319)
+
+[weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
  <iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
            
