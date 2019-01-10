@@ -11,10 +11,8 @@
 
  <iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
            
-
 ## entry list
 [entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319/)
-[notice of race]()
 
 ## National Championship	 	
 * 18 January 2019 Race Day 1
