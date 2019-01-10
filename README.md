@@ -1,3 +1,5 @@
+
+
 # foiling videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E0gb0Lb2gzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -6,6 +8,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fahqIxdpReE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # perth waszp games (worlds 2019)
+
+ <iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+           
+
+## entry list
+[entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319/)
+[notice of race]()
 
 ## National Championship	 	
 * 18 January 2019 Race Day 1
