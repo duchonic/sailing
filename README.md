@@ -1,9 +1,16 @@
 # perth waszp games (worlds 2019)
+
+## 12 January (Mühlehorn)
+sailing stuff packed, ready for Perth...
+![pic](photos/packing.JPG)
+
+[official facebook page](https://www.facebook.com/waszpgames)
+
 [entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319)
 
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
- <iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+<iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
            
 ## National Championship	 	
 * 18 January 2019 Race Day 1
