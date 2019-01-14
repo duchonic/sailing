@@ -2,7 +2,7 @@
 
 ## 14 January (Perth)
 hello sunshine
-![pic](photos/hellPerth.JPG)
+![pic](photos/helloPerth.JPG)
 
 
 ## 12 January (Mühlehorn)
