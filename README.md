@@ -4,7 +4,6 @@
 hello sunshine<br>
 ![pic](photos/helloPerth.JPG)
 
-
 ## 12 January (Mühlehorn)
 sailing stuff plus sharkknife packed, ready for Perth...<br>
 ![pic](photos/packing.JPG)
@@ -16,7 +15,12 @@ sailing stuff plus sharkknife packed, ready for Perth...<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 <iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
-           
+
+## Training
+* 15 January 2019 Boatwork
+* 16 January 2019 Practice Day 1
+* 17 January 2019 Practice Day 2
+
 ## National Championship	 	
 * 18 January 2019 Race Day 1
 * 19 January 2019 Race Day 2
@@ -30,13 +34,6 @@ sailing stuff plus sharkknife packed, ready for Perth...<br>
 * 26 January 2019 Australia Day (no racing)
 * 27 January 2019 Race Day 5
 * 28 January 2019 Race Day 6
-
-# foiling videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0gb0Lb2gzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gVDLwug-XlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fahqIxdpReE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # garda waszp games (euro 2018)
 
