@@ -1,5 +1,10 @@
 # perth waszp games (worlds 2019)
 
+## 14 January (Perth)
+hello sunshine
+![pic](photos/hellPerth.JPG)
+
+
 ## 12 January (Mühlehorn)
 sailing stuff plus sharkknife packed, ready for Perth...
 ![pic](photos/packing.JPG)
