@@ -1,7 +1,7 @@
 # perth waszp games (worlds 2019)
 
 ## 15 January
-boat is ready
+boat is ready, and aleady flyed perfectly<br>
 ![pic](photos/hardwork.gif)
 
 ## 14 January (Perth)
