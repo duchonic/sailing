@@ -1,7 +1,7 @@
-# perth waszp games (worlds 2019)
+$# perth waszp games (worlds 2019)
 
 ## 15 January
-boat is ready, and aleady flyed perfectly<br>
+boat is ready, already flown perfectly<br>
 ![pic](photos/hardwork.gif)<br>
 PPC (perfect perth condition)<br>
 ![pic](photos/perfect.png)
