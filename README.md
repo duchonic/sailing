@@ -2,7 +2,9 @@
 
 ## 15 January
 boat is ready, and aleady flyed perfectly<br>
-![pic](photos/hardwork.gif)
+![pic](photos/hardwork.gif)<br>
+PPC (perfect perth condition)<br>
+![pic](photos/perfect.png)
 
 ## 14 January (Perth)
 hello sunshine<br>
