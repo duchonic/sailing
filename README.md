@@ -1,5 +1,9 @@
 # perth waszp games (worlds 2019)
 
+## 15 January
+boat is ready
+![pic](photos/hardwork.gif)
+
 ## 14 January (Perth)
 hello sunshine<br>
 ![pic](photos/helloPerth.JPG)
