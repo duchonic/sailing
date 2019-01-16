@@ -14,6 +14,8 @@ Heute waren es wieder rund 90 Minuten auf dem Wasser. Bei rund 20cm Welle macht 
 
 Gute 5 Beafourt.
 
+[norweger am fliegen](https://www.facebook.com/waszpgames/videos/388457785059272/)
+
 Ich habe mich auf dem Heimweg gefragt wieso hier ohne Welle der Vorwind einfacher ist als der Amwind. Habe das kurz durchgerechnet und wenn man die Resultate kurz studiert, wird auch klar wieso Vorwind ohne Welle (voll) easy ist.
 
 Wahrer Wind + Fahrtwind = Scheinbarer Wind
