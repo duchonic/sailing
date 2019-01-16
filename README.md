@@ -8,8 +8,6 @@
 [beaufortskala](https://de.wikipedia.org/wiki/Beaufortskala)<br>
 [knoten]( https://engineering.mit.edu/engage/ask-an-engineer/why-is-speed-at-sea-measured-in-knots/)
 
-
-
 Heute waren es wieder rund 90 Minuten auf dem Wasser. Bei rund 20cm Welle macht das mit den Foilern richtig Spass. Vorwind hatte ich kaum Problem, auch durch die Halse kein Problem auf den Foils zu bleiben. Anders sieht der Amwindkurs aus. Wir hatten so 15kn plus alle 2-3 Minuten Böen bis 25kn für 30 Sekunden.
 
 Gute 5 Beafourt.
@@ -70,19 +68,6 @@ print('apparent down:', int(calcApparent(wind, downwind)),'kn', \
 
     apparent up:   24 kn with gust: 33 kn
     apparent down: 15 kn with gust: 18 kn
-
-
-
-```python
-print('increase during gust up  :', \
-      calcApparent(wind+gust, upwind) / calcApparent(wind, upwind))
-print('increase during gust down:', \
-      calcApparent(wind+gust, downwind) / calcApparent(wind, downwind))
-```
-
-    increase during gust up  : 1.3943997844424993
-    increase during gust down: 1.2018504251546631
-
 
 ## 15 January
 boat is ready, already flown perfectly<br>
