@@ -12,13 +12,13 @@ Heute waren es wieder rund 90 Minuten auf dem Wasser. Bei rund 20cm Welle macht 
 
 Gute 5 Beafourt.
 
-[norweger am fliegen](https://www.facebook.com/waszpgames/videos/388457785059272/)
+Ich habe mich auf dem Heimweg gefragt, wieso hier ohne Welle der Vorwind einfacher ist als der Amwind. Habe das kurz durchgerechnet und wenn man die Resultate kurz studiert, wird auch klar, wieso Vorwind ohne Welle (voll) easy ist.
 
-Ich habe mich auf dem Heimweg gefragt wieso hier ohne Welle der Vorwind einfacher ist als der Amwind. Habe das kurz durchgerechnet und wenn man die Resultate kurz studiert, wird auch klar wieso Vorwind ohne Welle (voll) easy ist.
+[norweger am fliegen](https://www.facebook.com/waszpgames/videos/388457785059272/)
 
 Wahrer Wind + Fahrtwind = Scheinbarer Wind
 
-Bewegt man sich auf dem Wasser (gleiches gilt auch an Land) ergibt sich aus dem Fahrtwind und dem wahren Wind der scheinbare Wind.
+Bewegt man sich auf dem Wasser (gleiches gilt auch an Land), ergibt sich aus dem Fahrtwind und dem wahren Wind der scheinbare Wind.
 
 In Zahlen heisst das mit meinem fliegendem Boot:
 - Amwind (+45° zum Wind) 15 kn wahrem Wind + 11 kn Fahrtwind = scheinbarer Wind von 24 kn (in der Böe 33 kn)
