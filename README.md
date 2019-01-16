@@ -1,4 +1,86 @@
-$# perth waszp games (worlds 2019)
+# perth waszp games (worlds 2019)
+[official facebook page](https://www.facebook.com/waszpgames)<br>
+[entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319)<br>
+[weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
+## 16 January (Scheinbarer Wind)
+
+[scheinbarer wind](https://de.wikipedia.org/wiki/Wahrer_und_scheinbarer_Wind#Scheinbarer_Wind)<br>
+[beaufortskala](https://de.wikipedia.org/wiki/Beaufortskala)<br>
+[knoten]( https://engineering.mit.edu/engage/ask-an-engineer/why-is-speed-at-sea-measured-in-knots/)
+
+
+
+Heute waren es wieder rund 90 Minuten auf dem Wasser. Bei rund 20cm Welle macht das mit den Foilern richtig Spass. Vorwind hatte ich kaum Problem, auch durch die Halse kein Problem auf den Foils zu bleiben. Anders sieht der Amwindkurs aus. Wir hatten so 15kn plus alle 2-3 Minuten Böen bis 25kn für 30 Sekunden.
+
+Gute 5 Beafourt.
+
+Ich habe mich auf dem Heimweg gefragt wieso hier ohne Welle der Vorwind einfacher ist als der Amwind. Habe das kurz durchgerechnet und wenn man die Resultate kurz studiert, wird auch klar wieso Vorwind ohne Welle (voll) easy ist.
+
+Wahrer Wind + Fahrtwind = Scheinbarer Wind
+
+Bewegt man sich auf dem Wasser (gleiches gilt auch an Land) ergibt sich aus dem Fahrtwind und dem wahren Wind der scheinbare Wind.
+
+In Zahlen heisst das mit meinem fliegendem Boot:
+- Amwind (+45° zum Wind) 15 kn wahrem Wind + 11 kn Fahrtwind = scheinbarer Wind von 24 kn (in der Böe 33 kn)
+  - Amwind also 5-6 Beafourt
+- Vorwind (-45° zum Wind) bei 15 kn wahrem Wind + 21 kn Fahrtwind = scheinbarer Wind von 15 kn (in der Böe 18 kn)
+  - Downwind also 4-5 Beafourt
+
+Als Fazit heisst das für mich Amwind alles dicht ziehen bis zum Anschlag und Vorwind auf keinen Fall abbremsen.
+
+```python
+import numpy as np
+```
+
+
+```python
+def calcApparent(wind, boat):
+    return np.linalg.norm(wind+boat)
+```
+
+
+```python
+def calcSpeed(vector):
+    return int(np.linalg.norm(vector))
+```
+
+
+```python
+wind = np.array([0,15]); print('wind:', calcSpeed(wind),'kn')
+gust = np.array([0,10]); print('gust:', calcSpeed(gust),'kn')
+upwind = np.array([8,8]); print('upwind speed:', calcSpeed(upwind),'kn')
+downwind = np.array([15,-15]); print('downwind speed:', calcSpeed(downwind),'kn')
+```
+
+    wind: 15 kn
+    gust: 10 kn
+    upwind speed: 11 kn
+    downwind speed: 21 kn
+
+
+
+```python
+print('apparent up:  ', int(calcApparent(wind, upwind)),'kn', \
+      'with gust:', int(calcApparent(wind+gust, upwind)),'kn')
+print('apparent down:', int(calcApparent(wind, downwind)),'kn', \
+      'with gust:', int(calcApparent(wind+gust, downwind)),'kn')
+```
+
+    apparent up:   24 kn with gust: 33 kn
+    apparent down: 15 kn with gust: 18 kn
+
+
+
+```python
+print('increase during gust up  :', \
+      calcApparent(wind+gust, upwind) / calcApparent(wind, upwind))
+print('increase during gust down:', \
+      calcApparent(wind+gust, downwind) / calcApparent(wind, downwind))
+```
+
+    increase during gust up  : 1.3943997844424993
+    increase during gust down: 1.2018504251546631
+
 
 ## 15 January
 boat is ready, already flown perfectly<br>
@@ -13,12 +95,6 @@ hello sunshine<br>
 ## 12 January (Mühlehorn)
 sailing stuff plus sharkknife packed, ready for Perth...<br>
 ![pic](photos/packing.JPG)
-
-[official facebook page](https://www.facebook.com/waszpgames)
-
-[entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319)
-
-[weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 <iframe id="contactMap" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hobbs Place, Peppermint Grove WA 6011&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe>
 
