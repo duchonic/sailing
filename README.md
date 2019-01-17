@@ -4,7 +4,8 @@
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 ## 17 January
-"patchy wind" heisst es auf English. Auf dem Bild vom kleinen Berg der schön in Windrichtung von unserem Regattarevier steht schön zu sehen. Auf dem Photo hat es unten Zürichseewind von 2-4 kn aus allen Richtungen, in der Mitte Walenseewind von 10-15kn und am anderen Ufer dann australische 20-25kn. In der Mitte noch eine kleine Untiefe und viele Motorboote sowie Kursschiffe. Dazu ab morgen noch ca. 60 andere Waszps. <br>Ziel für die nächsten zwei Tage der australischen Meisterschaften heisst mal allen Problemen aus dem Weg gehen und vor dem dritten Tag auf der Jasstafel nachschauen ob ich die Strategie anpassen muss.
+"patchy wind" heisst es auf English. Auf dem Bild vom kleinen Berg, der in Windrichtung von unserem Regattarevier steht, schön zu sehen. Auf dem Photo hat es unten Zürichseewind von 2-4 kn aus allen Richtungen, in der Mitte Walenseewind von 10-15kn und am anderen Ufer dann australische 20-25kn. In der Mitte noch eine kleine Untiefe und viele Motorboote sowie Kursschiffe. Dazu ab morgen noch ca. 60 andere Waszps.
+<br>Ziel für die nächsten zwei Tage der australischen Meisterschaften heisst, mal allen Problemen aus dem Weg gehen und vor dem dritten Tag auf der Jasstafel nachschauen, ob ich die Strategie anpassen muss.
 ![pic](photos/patchi.JPG)
 
 ## 16 January (Scheinbarer Wind)
