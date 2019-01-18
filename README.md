@@ -3,6 +3,14 @@
 [entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 18 January (Details)
+Beim Segeln muss jewils alles passen um nicht ganz hinten zu landen. So habe ich die Unterschrift auf der Auslaufliste vergessen, dann nicht mitgekriegt dass die Australier 3 min Starts (statt 5 min) haben und zu guter letzt zwei mal Amwind gekentert. Der zweite und dritte Lauf dann viel bessert. Starts waren ok (Siehe Bild unten ganz rechts). Am Schluss waren es Rang 19,17. Wenn ich einstellige Ränge segeln will muss ich Amwind mehr höhe fahren, das geht nur mit viel Luvkrängung, aber heikel bei böigem Wind. Morgen geht's erst um 16:00 auf's Wasser, da am Samstag die Australier ihre Boote ausfahren und es erst spät genügend Platz für uns hat.<br>
+[results](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPnationals/WASZP_2019_Australian_Championship_Overall.htm)<br>
+
+![pic](photos/start.JPG)
+<br><br>
+![pic](photos/perth.JPG)
+
 ## 17 January
 "patchy wind" heisst es auf English. Auf dem Bild vom kleinen Berg, der in Windrichtung von unserem Regattarevier steht, schön zu sehen. Auf dem Photo hat es unten Zürichseewind von 2-4 kn aus allen Richtungen, in der Mitte Walenseewind von 10-15kn und am anderen Ufer dann australische 20-25kn. In der Mitte noch eine kleine Untiefe und viele Motorboote sowie Kursschiffe. Dazu ab morgen noch ca. 60 andere Waszps.
 <br>Ziel für die nächsten zwei Tage der australischen Meisterschaften heisst, mal allen Problemen aus dem Weg gehen und vor dem dritten Tag auf der Jasstafel nachschauen, ob ich die Strategie anpassen muss.
