@@ -1,10 +1,10 @@
 # perth waszp games (worlds 2019)
+[results australian nationals](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPnationals/WASZP_2019_Australian_Championship_Overall.htm)<br>
 [official facebook page](https://www.facebook.com/waszpgames)<br>
-[entry list](https://www.revolutionise.com.au/rfbyc/eventlist/20319)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 ## 18 January (Details)
-Beim Segeln muss jewils alles passen um nicht ganz hinten zu landen. So habe ich die Unterschrift auf der Auslaufliste vergessen, dann nicht mitgekriegt dass die Australier 3 min Starts (statt 5 min) haben und zu guter letzt zwei mal Amwind gekentert. Der zweite und dritte Lauf dann viel bessert. Starts waren ok (Siehe Bild unten ganz rechts). Am Schluss waren es Rang 19,17. Wenn ich einstellige Ränge segeln will muss ich Amwind mehr höhe fahren, das geht nur mit viel Luvkrängung, aber heikel bei böigem Wind. Morgen geht's erst um 16:00 auf's Wasser, da am Samstag die Australier ihre Boote ausfahren und es erst spät genügend Platz für uns hat.<br>
+Beim Segeln muss jeweils alles passen um nicht ganz hinten zu landen. So habe ich die Unterschrift auf der Auslaufliste vergessen, dann nicht mitgekriegt dass die Australier 3 min Starts (statt 5 min) haben und zu guter letzt zwei mal Amwind gekentert. Der zweite und dritte Lauf dann viel bessert. Starts waren ok (Siehe Bild unten ganz rechts). Am Schluss waren es Rang 19,17. Wenn ich einstellige Ränge segeln will muss ich Amwind mehr höhe fahren, das geht nur mit viel Luvkrängung, aber heikel bei böigem Wind. Morgen geht's erst um 16:00 auf's Wasser, da am Samstag die Australier ihre Boote ausfahren und es erst spät genügend Platz für uns hat.<br>
 [results](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPnationals/WASZP_2019_Australian_Championship_Overall.htm)<br>
 
 ![pic](photos/start.jpg)
