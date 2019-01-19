@@ -5,7 +5,7 @@
 
 ## 19 January
 Relaxing day, 40° Celsius, less windy than yesterday, late start in the afternoon
-<iframe width="800" height="150" scrolling="no" frameborder="no" allow="autoplay" 
+<iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" 
 src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193839719&color=%23ff0000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ## 18 January (Details)
