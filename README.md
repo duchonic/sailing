@@ -3,6 +3,10 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 19 January
+Relaxing day, 40° Celsius, less windy than yesterday, late start in the afternoon
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193839719&color=%23ff0000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 ## 18 January (Details)
 Beim Segeln muss jeweils alles passen um nicht ganz hinten zu landen. So habe ich die Unterschrift auf der Auslaufliste vergessen, dann nicht mitgekriegt dass die Australier 3 min Starts (statt 5 min) haben und zu guter letzt zwei mal Amwind gekentert. Der zweite und dritte Lauf dann viel bessert. Starts waren ok (Siehe Bild unten ganz rechts). Am Schluss waren es Rang 19,17. Wenn ich einstellige Ränge segeln will muss ich Amwind mehr höhe fahren, das geht nur mit viel Luvkrängung, aber heikel bei böigem Wind. Morgen geht's erst um 16:00 auf's Wasser, da am Samstag die Australier ihre Boote ausfahren und es erst spät genügend Platz für uns hat.<br>
 [results](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPnationals/WASZP_2019_Australian_Championship_Overall.htm)<br>
