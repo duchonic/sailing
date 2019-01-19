@@ -4,8 +4,13 @@
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 ## 19 January
+
+### update night
+Doch nicht ganz "relaxing day". Es gab wieder drei Läufte bei 15-20kn. Starts habe ich alle drei verpasst und bin nicht gut weggekommen. Amwind ab un zu sehr gut unterwegs, aber Probleme mit Fähre und anderen kleinen Details gehabt. Am Schluss noch ganz um das Vorwindgate geflogen statt durch und nicht gewertet worden. Morgen dann wieder "serious day" am letzen Tag der Nationals.<br>
+[results](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPnationals/WASZP_2019_Australian_Championship_Overall.htm)<br>
+### update morning
 Relaxing day, 40° Celsius, less windy than yesterday, late start in the afternoon
-<iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" 
+<iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay"
 src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193839719&color=%23ff0000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ## 18 January (Details)
