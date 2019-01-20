@@ -3,6 +3,14 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 21 January (Slalom)
+Morgen Montag findet der Slalom statt. Auf der offiziellen facebook page wird das ganze live ab 06:00 übertragen. Eventuell noch spannend denn die Windprognosen sind 20+ kn! Coole Sache, mal etwas neues, nicht immer diese Bananen.
+![pic](photos/slalom.jpg)
+
+## 2o January (Banane)
+3 Stunden auf dem Wasser für gerade mal eine Banane. Und dann bin ich diese nicht mal zu Ende gesegelt. Als Erklärung, eine Banane ist beim Segeln einmal rauf, einmal runter. Ein Regattakurs ist normalerweise zwei Bananen. Die Regattaorganisotoren können aber einen normalen Kurs abkützen (meistens weil der Wind nicht mehr stimmt) und dann wird man schon nach einer Banane gewertet. <br>
+Die australischen Meisterschaften sind nun zu Ende. Habe viel gelernt und viel am Boot rumgetestet. Jetzt liegt es an mir, gut zu Starten und Amwind auf Kurs zu bleiben.
+
 ## 19 January
 
 ### update night
