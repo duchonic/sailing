@@ -6,7 +6,9 @@
 ## 21 January (Schlalom)
 Habe sämtliche Qualiläufe überstanden und bin schlussendlich in's Finale geflogen. Bin bei den drei Finalläufen gut gestartet und immer unter den ersten Drei um die erste Marke geflogen, dann jedoch falsche Taktik und schlechte Manöver gemacht. Trotzdem super Tag und gutes Gefühl für die Meisterschaften die morgen starten. <br>
 Zwecks Überzahl im "Garnd Final" haben die mich kurz vor dem Final auch spontan Eingebürgert. G'day mate und bis morgen...
+<br>
 ![pic](photos/finals.png)
+<br>
 - M.Coutts (Sohn von Russel, der Papa fährt ihm den ganzen tag hinterher... )
 - T.Johnson (Oracle Team USA, VOR Dongfeng)
 - P.Leboucher (Profisegler Figaro/470er)
