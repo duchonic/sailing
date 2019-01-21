@@ -3,9 +3,13 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
-## 21 January (Slalom)
-Morgen Montag findet der Slalom statt. Auf der offiziellen facebook page wird das ganze live ab 06:00 übertragen. Eventuell noch spannend denn die Windprognosen sind 20+ kn! Coole Sache, mal etwas neues, nicht immer diese Bananen.
-![pic](photos/slalom.jpg)
+## 21 January (Schlalom)
+Habe sämtliche Qualiläufe überstanden und bin schlussendlich in's Finale geflogen. Bin bei den drei Finalläufen gut gestartet und immer unter den ersten Drei um die erste Marke geflogen, dann jedoch falsche Taktik und schlechte Manöver gemacht. Trotzdem super Tag und gutes Gefühl für die Meisterschaften die morgen starten. <br>
+Zwecks Überzahl im "Garnd Final" haben die mich kurz vor dem Final auch spontan Eingebürgert. G'day mate und bis morgen...
+![pic](photos/finals.png)
+- M.Coutts (Sohn von Russel, der Papa fährt ihm den ganzen tag hinterher... )
+- T.Johnson (Oracle Team USA, VOR Dongfeng)
+- P.Leboucher (Profisegler Figaro/470er)
 
 ## 2o January (Banane)
 3 Stunden auf dem Wasser für gerade mal eine Banane. Und dann bin ich diese nicht mal zu Ende gesegelt. Als Erklärung, eine Banane ist beim Segeln einmal rauf, einmal runter. Ein Regattakurs ist normalerweise zwei Bananen. Die Regattaorganisotoren können aber einen normalen Kurs abkützen (meistens weil der Wind nicht mehr stimmt) und dann wird man schon nach einer Banane gewertet. <br>
