@@ -4,7 +4,7 @@
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 ## 22 January (Race Day 1)
-## update
+### update
 Drei Läufe gesegelt. Hatte kaum Fehler gemacht, ausser bei den letzen zwei Läufen jeweils Amwind auf der falschen Seite zu sein. Trotzdem sehr zufrieden mit dem Segeln. Morgen ist Sturm (19Grad kalt) und kein Segeln.<br>
 [results](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPgames/WASZP_2019_Games_Overall.htm)
 
@@ -14,6 +14,7 @@ Drei Läufe gesegelt. Hatte kaum Fehler gemacht, ausser bei den letzen zwei Läu
 
 ![pic](photos/day01_03.jpg)
 
+### morning
 Heute gilt es ernst mit den ersten paar Läufen für die Games. Hier noch ein paar Photos vom Clubhäuschen (die Toiletten sind grösser als das ganze Clubhaus vom Segel Club oberer Walensee)<br>
 ![pic](photos/clubhouse1.JPG)
 
