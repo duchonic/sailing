@@ -5,9 +5,9 @@
 
 ## 22 January (Race Day 1)
 Heute gilt es ernst mit den ersten paar Läufen für die Games. Hier noch ein paar Photos vom Clubhäuschen (die Toiletten sind grösser als das ganze Clubhaus vom Segel Club oberer Walensee)<br>
-![pic](photos/clubhouse1.jpg)
+![pic](photos/clubhouse1.JPG)
 
-![pic](photos/clubhouse2.jpg)
+![pic](photos/clubhouse2.JPG)
 
 ![pic](photos/moon.jpg)
 
