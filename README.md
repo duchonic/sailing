@@ -3,6 +3,14 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 22 January (Race Day 1)
+Heute gilt es ernst mit den ersten paar Läufen für die Games. Hier noch ein paar Photos vom Clubhäuschen (die Toiletten sind grösser als das ganze Clubhaus vom Segel Club oberer Walensee)<br>
+![pic](photos/clubhouse1.jpg)
+
+![pic](photos/clubhouse2.jpg)
+
+![pic](photos/moon.jpg)
+
 ## 21 January (Schlalom)
 Habe sämtliche Qualiläufe überstanden und bin schlussendlich in's Finale geflogen. Bin bei den drei Finalläufen gut gestartet und immer unter den ersten Drei um die erste Marke geflogen, dann jedoch falsche Taktik und schlechte Manöver gemacht. Trotzdem super Tag und gutes Gefühl für die Meisterschaften die morgen starten. <br>
 Zwecks Überzahl im "Garnd Final" haben die mich kurz vor dem Final auch spontan Eingebürgert. G'day mate und bis morgen...
