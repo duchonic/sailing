@@ -1,9 +1,19 @@
 # perth waszp games (worlds 2019)
-[results australian nationals](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPnationals/WASZP_2019_Australian_Championship_Overall.htm)<br>
+[results waszp games](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPgames/WASZP_2019_Games_Overall.htm)<br>
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 ## 22 January (Race Day 1)
+## update
+Drei Läufe gesegelt. Hatte kaum Fehler gemacht, ausser bei den letzen zwei Läufen jeweils Amwind auf der falschen Seite zu sein. Trotzdem sehr zufrieden mit dem Segeln. Morgen ist Sturm (19Grad kalt) und kein Segeln.<br>
+[results](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPgames/WASZP_2019_Games_Overall.htm)
+
+![pic](photos/day01_01.jpg)
+
+![pic](photos/day01_02.jpg)
+
+![pic](photos/day01_03.jpg)
+
 Heute gilt es ernst mit den ersten paar Läufen für die Games. Hier noch ein paar Photos vom Clubhäuschen (die Toiletten sind grösser als das ganze Clubhaus vom Segel Club oberer Walensee)<br>
 ![pic](photos/clubhouse1.JPG)
 
