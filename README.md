@@ -3,6 +3,12 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 23 January (layday)
+Heute keine Regatten. Nicht ganz sicher ob es wegen zu viel Wind oder zu kalten Tempteraturen ist? Die Australier sind bereits mit Pullover und Jacke unterwegs. Für mich kommt der Ruhetag nach 8 Segeltagen gerade richtig, Finger, Muskeln und Gelenke ruhen lassen. Donnerstag/Freitag die nächsten paar Regatten. Wind sowie Temperaturen werden sich bis dahin wieder auf Normalwerte stabilisieren.
+
+![pic](photos/day02_01.jpg)
+![pic](photos/day02_02.jpg)
+
 ## 22 January (Race Day 1)
 ### update
 Drei Läufe gesegelt. Hatte kaum Fehler gemacht, ausser bei den letzen zwei Läufen jeweils Amwind auf der falschen Seite zu sein. Trotzdem sehr zufrieden mit dem Segeln. Morgen ist Sturm (19Grad kalt) und kein Segeln.<br>
