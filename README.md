@@ -3,6 +3,15 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 24 January (Race Day 2)
+Wieder drei Läufe gesegelt. Die Rägne 26, 21 und 32 sind so Mittelfeld. Da kann ich mit meinem Boatspeed nichts besser machen. Der Wind hier in Perth ist stark und bei weitem nicht so launisch wie bei uns in Europa. Es kommt also hauptsächlich auf den Start, Amwindspeed an. Da muss ich wohl noch ein paar hundert Stunden auf dem Wasser investieren um diese Art von Boot auf den gleichen Speed zu bringen wie die Top Leute. Werde morgen noch versuchen gut zu starten und keine Fehler bei den Manövern zu machen. Es stehen noch 6 Läufe an.
+
+![pic](photos/day03_01.jpg)
+
+![pic](photos/day03_02.jpg)
+
+![pic](photos/day03_03.jpg)
+
 ## 23 January (layday)
 Heute keine Regatten. Nicht ganz sicher ob es wegen zu viel Wind oder zu kalten Tempteraturen ist? Die Australier sind bereits mit Pullover und Jacke unterwegs. Für mich kommt der Ruhetag nach 8 Segeltagen gerade richtig, Finger, Muskeln und Gelenke ruhen lassen. Donnerstag/Freitag die nächsten paar Regatten. Wind sowie Temperaturen werden sich bis dahin wieder auf Normalwerte stabilisieren.
 
