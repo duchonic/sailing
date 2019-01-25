@@ -1,4 +1,7 @@
 # perth waszp games (worlds 2019)
+
+![pic](photos/header.jpg)
+
 [results waszp games](http://www.sportspage.com.au/yacht_clubs/rfbyc/WASZPgames/WASZP_2019_Games_Overall.htm)<br>
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
