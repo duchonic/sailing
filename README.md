@@ -6,6 +6,12 @@
 ## 25 January (Race Day 3)
 Heute würde eigentlich die Vereinsversammlung vom Segel Club oberer Walensee anstehen. Ich muss mich leider abmelden, weil ich hier in Perth am segeln bin. Heute waren es zwei super Läufe bei schönen 20 kn Wind. Beide Läufe gut gestartet und keine Fehler gemacht. Mit den Resultaten 22, 21 bin ich nun wieder auf der ersten Seite vom Gesamtklassement. Morgen ist kein Segeln (Australia Day) und auf unserem Regattarevier viel zu viel Verkehr ist.
 
+![pic](photos/day04_02.jpg)
+
+![pic](photos/day04_03.jpg)
+
+![pic](photos/day04_01.jpg)
+
 ## 24 January (Race Day 2)
 Wieder drei Läufe gesegelt. Die Rägne 26, 21 und 32 sind Mittelfeld. Da kann ich mit meinem Boatspeed nichts besser machen. Der Wind hier in Perth ist stark und bei weitem nicht so launisch wie bei uns in Europa. Es kommt also hauptsächlich auf den Start, Amwindspeed an. Da muss ich wohl noch ein paar hundert Stunden auf dem Wasser investieren um diese Art von Boot auf den gleichen Speed zu bringen wie die Top Leute. Werde morgen noch versuchen gut zu starten und keine Fehler bei den Manövern zu machen. Es stehen noch 6 Läufe an.
 
