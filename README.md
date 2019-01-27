@@ -11,6 +11,8 @@ Noch vier Läufe sind in den nächsten zwei Tagen zu segeln. Der Doktor (Seebrea
 
 ![pic](photos/downwind.jpg)
 
+![pic](photos/upwind.jpg)
+
 ## 25 January (Race Day 3)
 Heute würde eigentlich die Vereinsversammlung vom Segel Club oberer Walensee anstehen. Ich muss mich leider abmelden, weil ich hier in Perth am segeln bin. Heute waren es zwei super Läufe bei schönen 20 kn Wind. Beide Läufe gut gestartet und keine Fehler gemacht. Mit den Resultaten 22, 21 bin ich nun wieder auf der ersten Seite vom Gesamtklassement. Morgen ist kein Segeln (Australia Day) und auf unserem Regattarevier viel zu viel Verkehr ist.
 
