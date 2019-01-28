@@ -7,6 +7,11 @@
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
 ## 27 January (Race Day 4)
+### update
+Wegen den guten Windverhältnissen wurde noch ein zusätzlicher Lauf angehängt. Habe die ersten zwei Starts komplett verschlafen und bin noch zusätzlich paar Mal gekentert. Im dritten Lauf dann super Start und unter den ersten 10 um die Boje. Dann aber bei jeder Halse gekentert und jedes Mal 10 Boote verloren. Am Gesamtklassement hat sich nichts geändert. Versuche heute noch einen guten Lauf zu segeln.
+
+![pic](photos/day5.jpg)
+
 Noch vier Läufe sind in den nächsten zwei Tagen zu segeln. Der Doktor (Seebreaze) sollte nicht mehr so stark sein wie in den letzen Tagen. Die Australier warten aber jeweils immer so lange, bis der Wind schön über 15 kn liegt. Alles unter 3 Beaufort gilt hier nicht als Segeln.
 
 ![pic](photos/downwind.jpg)
