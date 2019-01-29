@@ -6,6 +6,14 @@
 [official facebook page](https://www.facebook.com/waszpgames)<br>
 [weather forecast](https://www.seabreeze.com.au/weather/wind-forecast/perth)
 
+## 28 January (Race Day 5)
+Der letzte Lauf gesegelt. Hat alles geklappt, vom Start bis zum Ziel schön gesegelt. Knapp 12-14 kn Wind aber grosse Wellen von den Motorbooten (Australier hatten am Montag frei wegen Australia Day). Habe noch einen Platz verloren im Gesamtklassement aber sehr zufrieden. Das Mietboot ist zusammengeräumt und nach einem schönen Nachtessen im Club ist das Abenteuer Waszp Games in Perth fertig. Danke allen fürs folgen und bis zum nächsten Mal:
+- Garda 2019?
+- Miami 2020?
+- Aukland 2021?
+
+![pic](photos/finish.jpg)
+
 ## 27 January (Race Day 4)
 ### update
 Wegen den guten Windverhältnissen wurde noch ein zusätzlicher Lauf angehängt. Habe die ersten zwei Starts komplett verschlafen und bin noch zusätzlich paar Mal gekentert. Im dritten Lauf dann super Start und unter den ersten 10 um die Boje. Dann aber bei jeder Halse gekentert und jedes Mal 10 Boote verloren. Am Gesamtklassement hat sich nichts geändert. Versuche heute noch einen guten Lauf zu segeln.
