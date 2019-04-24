@@ -211,6 +211,3 @@ sailing stuff plus sharkknife packed, ready for Perth...<br>
 # garda waszp games (euro 2018)
 
 ![pic](img/garda2018_1.jpg)
-
-
-https://send.firefox.com/download/80db616d0455d526/#WR9NLyRQJF1NxkzZYCrz6w
