@@ -6,7 +6,7 @@ Nach den Musto Worlds in Medemblik, Holland (5 Tage a 3 Läufe (60 min)) bin ich
 Malcesina am Gardasee. Die Musto Worlds waren super, bei den windigen Tagen konnte ich gut mit den ersten 20 
 mithalten. Bei weniger Wind, aber immer noch Trapezwind gab es leider zu viele Fehler. Am Schluss bin ich 22. von rund 90 aktiven Booten.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nkj2Mdi4OX4" frameborder="0" 
+<iframe width="800" height="600" src="https://www.youtube.com/embed/nkj2Mdi4OX4" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Morgen geht es am Gardasee los mit dem Schlalom. Muss jedoch schauen, ob ich es zeitlich hinkriege, weil ich am 
