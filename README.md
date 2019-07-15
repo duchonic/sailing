@@ -1,16 +1,15 @@
 # garda waszp games (europeans 2019)
 
-![pic][photos/musto.jpg]
+![pic](photos/musto.jpg)
 
-Nach den Musto Worlds in Medemblik Holland (5 Tage a 3 Läufe (60 min)) bin ich eingesegelt und unterwegs nach 
+Nach den Musto Worlds in Medemblik, Holland (5 Tage a 3 Läufe (60 min)) bin ich eingesegelt und unterwegs nach 
 Malcesina am Gardasee. Die Musto Worlds waren super, bei den windigen Tagen konnte ich gut mit den ersten 20 
-mithalten. Bei den weniger Windigen, aber immer noch Trapezwind, und drehenden Winden gabe es leider zu viele 
-Fehler. Am Schluss bin ich 22. von rund 90 aktiven Booten.
+mithalten. Bei weniger Wind, aber immer noch Trapezwind gab es leider zu viele Fehler. Am Schluss bin ich 22. von rund 90 aktiven Booten.
 
-Morgen geht es am Gardasee los mit dem Schlalom. Muss jedoch schauen ob ich es zeitlich hinkriege weil ich am 
-Boot noch ein neues Trampolin einziehen muss. Bin aber optimistisch und motiviert am Nachmittag da mitzusegeln.
+Morgen geht es am Gardasee los mit dem Schlalom. Muss jedoch schauen, ob ich es zeitlich hinkriege, weil ich am 
+Boot noch ein neues Trampolin einziehen muss. Bin aber optimistisch und motiviert am Nachmittag mitzusegeln.
 
-[weblink zum livestream Schlalom][http://www.waszp.com/news/slalom-live]
+[weblink zum livestream Schlalom](http://www.waszp.com/news/slalom-live)
 
 # perth waszp games (worlds 2019)
 
