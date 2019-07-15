@@ -1,9 +1,9 @@
-# garda waszp games (europeans 2019)
+# road to garda waszp games (europeans 2019)
 
 ![pic](photos/musto.jpg)
 
 Nach den Musto Worlds in Medemblik, Holland (5 Tage a 3 Läufe (60 min)) bin ich eingesegelt und unterwegs nach 
-Malcesina am Gardasee. Die Musto Worlds waren super, bei den windigen Tagen konnte ich gut mit den ersten 20 
+Malcesine am Gardasee. Die Musto Worlds waren super, bei den windigen Tagen konnte ich gut mit den ersten 20 
 mithalten. Bei weniger Wind, aber immer noch Trapezwind gab es leider zu viele Fehler. Am Schluss bin ich 22. von rund 90 aktiven Booten.
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/nkj2Mdi4OX4" frameborder="0" 
