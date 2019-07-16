@@ -1,3 +1,11 @@
+# garda waszp games Schlalom
+
+Wieder gabs zum Start (und zum Spass) einen Schlalom vor den Meisterschaften. Leider hatte es nicht allzuviel 
+Wind und es war schwierig auf den Foils zu bleiben. Den ersten Lauf habe ich knapp überstanden. Bei der zweiten 
+Runde war aber schon Schluss.
+
+Konnte dann aber noch paar Vorwind sowie Amwind Kurse segeln und bin bereit für morgen Mittwoch.
+
 # road to garda waszp games (europeans 2019)
 
 ![pic](photos/musto.jpg)
