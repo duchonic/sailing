@@ -1,3 +1,12 @@
+# garda waszp games day 01
+
+Zwei mal das Ziel verpasst, den dritten Lauf aufgegeben... morgen dann Angriff!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_1LP3Z6pW4" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 # garda waszp games Schlalom
 
 Wieder gabs zum Start (und zum Spass) einen Schlalom vor den Meisterschaften. Leider hatte es nicht allzuviel 
