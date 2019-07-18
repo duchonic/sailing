@@ -1,3 +1,7 @@
+# garda waszp games day 02
+
+Leider kein Wind heute... Morgen früh erster Start 08:30 bei Nordwind!
+
 # garda waszp games day 01
 
 Morgen dann nur noch solche Wenden...
