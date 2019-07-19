@@ -1,3 +1,21 @@
+# garda waszp games day 03
+
+Mit dem Nordwind (Ora) haben wir heute Morgen zwei Läufe gesegelt. Downwind war hart mit den Wellen. Beide Läufe 
+habe ich gut gestartet und war so 10. Boot an der oberen Boje. Ein paar Überschläge dann Downwind und Rang 17 & 
+21 sind OK. Eventuell gibt es am Nachmittag noch einen letzten Lauf für die Quali Gold/Silver. Bin eventuell 
+Glücklicher wenn ich in der Silverfleet bei den vordersten bin als bei der Goldfleet bei den hintersten...
+
+# garda waszp games day 02 videos
+
+Dank meinem persönlichen Paparazzo am Land hier ein paar Videos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xJRadk8ppIw" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JPKMNbaweq8" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 # garda waszp games day 02
 
 Leider kein Wind heute... Morgen früh erster Start 08:30 bei Nordwind!
