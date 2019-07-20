@@ -1,3 +1,18 @@
+# garda waszp games day 03 part 2
+
+Nach zwei Nordwindläufen bin ich noch auf den 60. Rang gerutscht. Für die Goldfleet Top50 hats aber nicht 
+gereicht. Am Nachmittag hatten wir den ersten Lauf in der Silverfleet, bin zwei mal als dritter um die erste 
+Boje geflogen, dann vor dem Ziel noch ein Fehler gemacht und schlussendlich als 6. Platziert. War ein super Lauf 
+und bin Motiviert in der Silverfleet noch ein paar Plätze gut zu machen...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/35TSlZQV-Ws" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(bei 0:30 bin ich drauf...)
+[video day 3](https://www.facebook.com/waszpgames/videos/3556)
+
+
+
 # garda waszp games day 03
 
 Mit dem Nordwind (Ora) haben wir heute Morgen zwei Läufe gesegelt. Downwind war hart mit den Wellen. Beide Läufe 
