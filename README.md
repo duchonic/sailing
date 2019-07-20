@@ -9,9 +9,7 @@ und bin Motiviert in der Silverfleet noch ein paar Plätze gut zu machen...
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (bei 0:30 bin ich drauf...)
-[video day 3](https://www.facebook.com/waszpgames/videos/3556)
-
-
+[video day 3](https://www.facebook.com/waszpgames/videos/355607408463578/)
 
 # garda waszp games day 03
 
