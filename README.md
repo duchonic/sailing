@@ -1,3 +1,14 @@
+# garda waszp games day 04
+
+Letzer Tag gut überstanden. Es gab nochmals 3 Läufe bei schöner Nachmittagstermik. Bin jeweils gut gestartet und 
+konnte Amwind gut mithalten. Downwind hatte ich die ersten zwei Läufe ein bisschen Probleme mit den Wellen. 
+Konnte das Boot aber für den letzten Lauf umstellen und noch einen schönen letzten Lauf segeln.
+
+![pic](photos/garda.jpg)
+
+Nach den 2000km nach Medemblik und den 600km nach Malcesine bin ich nun wieder zu Hause und das Abenteuer Musto 
+WM / Waszp EM back-to-back ist geschafft. Gruss und bis zum nächsten Mal.
+
 # garda waszp games day 03 part 2
 
 Nach zwei Nordwindläufen bin ich noch auf den 60. Rang gerutscht. Für die Goldfleet Top50 hats aber nicht 
