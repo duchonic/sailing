@@ -4,6 +4,11 @@ Letzer Tag gut überstanden. Es gab nochmals 3 Läufe bei schöner Nachmittagste
 konnte Amwind gut mithalten. Downwind hatte ich die ersten zwei Läufe ein bisschen Probleme mit den Wellen. 
 Konnte das Boot aber für den letzten Lauf umstellen und noch einen schönen letzten Lauf segeln.
 
+Bin Schlussendlich 4. in der Silverfleet und 54. Overall...
+
+[für Rangliste hier 
+klicken](http://fragliavela.sailti.com/it/default/races/race-resultsall/text/waszp-european-championship-it)
+
 ![pic](photos/garda.jpg)
 
 Nach den 2000km nach Medemblik und den 600km nach Malcesine bin ich nun wieder zu Hause und das Abenteuer Musto 
